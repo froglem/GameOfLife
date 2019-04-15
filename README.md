@@ -1,3 +1,3 @@
 # GameOfLife
 
-![Game Picture](https://imgur.com/a/VZvHUFW)
+![Game Picture](https://github.com/froglem/GameOfLife/blob/master/GameOfLife.png)
